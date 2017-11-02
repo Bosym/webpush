@@ -1,5 +1,5 @@
 {
-    "name": "laravel-notification-channels/webpush",
+    "name": "bosym/webpush",
     "description": "Web Push Notifications driver for Laravel.",
     "homepage": "https://github.com/laravel-notification-channels/webpush",
     "license": "MIT",
@@ -9,12 +9,18 @@
             "email": "me@cretueusebiu.com",
             "homepage": "http://cretueusebiu.com",
             "role": "Developer"
+        },
+        {
+            "name": "Ricardo Boss",
+            "email": "ricardo@mcmainiac.de",
+            "homepage": "https://mcmainiac.de",
+            "role": "Developer"
         }
     ],
     "require": {
         "php": "^7.0",
-        "illuminate/notifications": "^5.3",
-        "illuminate/support": "^5.1",
+        "illuminate/notifications": "^5.5",
+        "illuminate/support": "^5.5",
         "minishlink/web-push": "^2.0"
     },
     "require-dev": {
